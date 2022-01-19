@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SMSHook</string>
+    <string name="app_desc">hook aosp 短信</string>
+</resources>
